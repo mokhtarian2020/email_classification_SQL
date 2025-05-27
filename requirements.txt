@@ -1,0 +1,14 @@
+python-dotenv         # for loading credentials from .env
+beautifulsoup4        # for HTML to text conversion in clean_text
+PyMuPDF               # for extracting text from PDF attachments
+python-docx           # for DOCX file support
+pytesseract           # for OCR on image attachments
+Pillow                # for image processing
+langdetect            # for detecting language of email content
+transformers          # for translation (HuggingFace MarianMT)
+torch                 # for running translation models
+APScheduler
+pillow-heif
+pyheif
+psycopg2-binary
+sqlalchemy
